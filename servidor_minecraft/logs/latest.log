@@ -695,3 +695,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Mar2025 22:43:00.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1522bd15[id=<null>,name=EddyChael,properties={},legacy=false] (/127.143.241.91:34961) lost connection: Disconnected
 [14Mar2025 22:43:41.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Stone Age]
 [14Mar2025 22:43:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Getting an Upgrade]
+[14Mar2025 22:49:54.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.143.241.91:55681] logged in with entity id 6800 at (-19.5, 67.0, 21.5)
+[14Mar2025 22:49:54.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael joined the game
+[14Mar2025 22:49:54.892] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[14Mar2025 22:49:58.047] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[14Mar2025 22:49:58.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[14Mar2025 22:50:28.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by elblak004
+[14Mar2025 22:50:30.343] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Mar2025 22:50:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elblak004> xaero-waypoint:Waypoint:X:105:57:354:1:false:0:Internal-overworld-waypoints
+[14Mar2025 22:51:07.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 was slain by Garetexe
+[14Mar2025 22:51:09.093] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Mar2025 22:52:15.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[14Mar2025 22:52:15.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 left the game
+[14Mar2025 22:52:15.830] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[14Mar2025 22:52:20.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Monster Hunter]
+[14Mar2025 22:52:23.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[14Mar2025 22:52:23.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael left the game
+[14Mar2025 22:52:23.474] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[14Mar2025 22:52:32.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.143.241.91:49643] logged in with entity id 8250 at (29.26642116347324, 63.0, 34.5809699305532)
+[14Mar2025 22:52:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael joined the game
+[14Mar2025 22:52:32.470] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[14Mar2025 22:52:33.539] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[14Mar2025 22:52:33.540] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[14Mar2025 22:52:58.973] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f60780[id=<null>,name=elblak004,properties={},legacy=false] (/127.203.202.119:47717) lost connection: Disconnected
+[14Mar2025 22:53:04.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.203.202.119:52521] logged in with entity id 8751 at (62.49262071067449, 65.0, 325.69999998807907)
+[14Mar2025 22:53:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 joined the game
+[14Mar2025 22:53:04.822] [Server thread/INFO] [Jade/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[14Mar2025 22:53:04.980] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[14Mar2025 22:53:04.981] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[14Mar2025 22:53:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule playersSleepingPercentage is now set to: 0
+[14Mar2025 22:57:35.742] [Worker-Main-19/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[14Mar2025 22:57:35.743] [Worker-Main-19/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14Mar2025 22:58:26.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Acquire Hardware]
+[14Mar2025 22:58:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Isn't It Iron Pick]
