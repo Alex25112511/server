@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-14 23:23:35 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-03-14 22:34:50 +0000"
@@ -460,7 +466,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-03-14 23:05:48 +0000",
-      "minecraft:cave_spider": "2025-03-14 23:07:53 +0000"
+      "minecraft:creeper": "2025-03-14 23:16:57 +0000",
+      "minecraft:cave_spider": "2025-03-14 23:07:53 +0000",
+      "minecraft:zombie": "2025-03-14 23:17:33 +0000"
     },
     "done": false
   },
@@ -1394,6 +1402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-14 23:17:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-14 23:02:12 +0000"
@@ -1640,6 +1654,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-14 23:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-14 22:58:26 +0000"
@@ -1718,6 +1738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-14 23:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-03-14 22:42:26 +0000"
@@ -1727,6 +1753,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-03-14 22:58:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-03-14 23:19:59 +0000"
     },
     "done": true
   },
@@ -2138,6 +2170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-14 23:15:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-03-14 23:12:53 +0000"
@@ -2183,6 +2221,12 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-14 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-03-14 23:15:53 +0000"
     },
     "done": true
   },
@@ -2619,6 +2663,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-14 23:15:53 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2025-03-14 22:42:26 +0000"
@@ -2959,7 +3009,8 @@
       "minecraft:river": "2025-03-14 22:35:38 +0000",
       "minecraft:cold_ocean": "2025-03-14 22:37:13 +0000",
       "minecraft:forest": "2025-03-14 22:34:51 +0000",
-      "minecraft:lush_caves": "2025-03-14 22:42:30 +0000"
+      "minecraft:lush_caves": "2025-03-14 22:42:30 +0000",
+      "minecraft:meadow": "2025-03-14 23:24:11 +0000"
     },
     "done": false
   },
@@ -3058,6 +3109,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-03-14 23:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-14 23:17:00 +0000"
     },
     "done": true
   },
