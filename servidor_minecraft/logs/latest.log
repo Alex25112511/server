@@ -736,3 +736,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Mar2025 23:04:54.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Amateur Archaeologist]
 [14Mar2025 23:05:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 fell from a high place
 [14Mar2025 23:05:29.202] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Mar2025 23:10:35.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EddyChael> xaero-waypoint:home:H:-8:64:30:12:false:0:Internal-overworld-waypoints
+[14Mar2025 23:10:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by Night Hunter
+[14Mar2025 23:10:55.629] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
