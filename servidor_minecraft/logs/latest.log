@@ -728,3 +728,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Mar2025 22:57:35.743] [Worker-Main-19/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [14Mar2025 22:58:26.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Acquire Hardware]
 [14Mar2025 22:58:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Isn't It Iron Pick]
+[14Mar2025 23:00:57.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Stone Age]
+[14Mar2025 23:02:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 has made the advancement [Acquire Hardware]
+[14Mar2025 23:02:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Getting an Upgrade]
+[14Mar2025 23:03:02.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Sweet Dreams]
+[14Mar2025 23:04:15.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Suit Up]
+[14Mar2025 23:04:54.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Amateur Archaeologist]
+[14Mar2025 23:05:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 fell from a high place
+[14Mar2025 23:05:29.202] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
