@@ -757,3 +757,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Mar2025 23:44:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Writing...]
 [14Mar2025 23:45:05.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [DJ! DJ!]
 [14Mar2025 23:45:05.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [DJ! DJ!]
+[14Mar2025 23:49:52.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has completed the challenge [Free Willy]
+[14Mar2025 23:50:06.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has completed the challenge [Free Willy]
+[14Mar2025 23:50:26.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Crops of the Wild]
+[14Mar2025 23:50:36.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Mar2025 23:50:40.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Mar2025 23:50:43.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=71, z=384} BlockPos{x=117, y=70, z=384}
+[14Mar2025 23:51:08.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[14Mar2025 23:51:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael left the game
+[14Mar2025 23:51:08.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[14Mar2025 23:54:16.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.143.241.91:55555] logged in with entity id 48979 at (106.85166865277806, 70.25220334025373, 381.52436067175324)
+[14Mar2025 23:54:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael joined the game
+[14Mar2025 23:54:17.007] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[14Mar2025 23:54:20.904] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[14Mar2025 23:54:20.905] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
