@@ -686,3 +686,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Mar2025 22:37:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 has made the advancement [Stone Age]
 [14Mar2025 22:38:19.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 has made the advancement [Getting an Upgrade]
 [14Mar2025 22:38:41.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 has made the advancement [Monster Hunter]
+[14Mar2025 22:39:30.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elblak004 has made the advancement [Sweet Dreams]
+[14Mar2025 22:39:45.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/476, l='ServerLevel[world]', x=113.70, y=63.00, z=302.70] died, message: 'Farmer was slain by Runner'
+[14Mar2025 22:40:39.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by elblak004
+[14Mar2025 22:40:40.977] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Mar2025 22:41:12.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Sweet Dreams]
+[14Mar2025 22:42:28.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Crops of the Wild]
+[14Mar2025 22:43:00.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1522bd15[id=<null>,name=EddyChael,properties={},legacy=false] (/127.143.241.91:34961) lost connection: Disconnected
+[14Mar2025 22:43:41.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Stone Age]
+[14Mar2025 22:43:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Getting an Upgrade]
