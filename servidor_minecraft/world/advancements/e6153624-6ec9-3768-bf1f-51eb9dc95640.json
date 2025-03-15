@@ -325,6 +325,7 @@
       "minecraft:cold_ocean": "2025-03-14 22:37:13 +0000",
       "minecraft:forest": "2025-03-14 22:34:51 +0000",
       "minecraft:lush_caves": "2025-03-14 22:42:30 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-15 00:33:50 +0000",
       "minecraft:meadow": "2025-03-14 23:24:11 +0000"
     },
     "done": false
@@ -4495,9 +4496,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-15 00:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-15 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-15 00:35:33 +0000"
     },
     "done": true
   },
@@ -4519,9 +4532,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-15 00:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-03-15 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-03-15 00:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-15 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-15 00:35:33 +0000"
     },
     "done": true
   },
@@ -4546,6 +4583,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-15 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-15 00:34:28 +0000"
     },
     "done": true
   },
