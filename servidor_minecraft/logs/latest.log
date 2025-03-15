@@ -13,3 +13,10 @@
 [15Mar2025 00:19:42.058] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Garetexe (18)
 [15Mar2025 00:19:42.059] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Garetexe
 [15Mar2025 00:19:42.617] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 00:21:18.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[15Mar2025 00:21:18.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael left the game
+[15Mar2025 00:21:18.419] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[15Mar2025 00:23:11.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by Hunter
+[15Mar2025 00:23:13.089] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 00:24:44.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by Infected Riot Gear
+[15Mar2025 00:24:46.256] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
