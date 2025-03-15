@@ -7869,3 +7869,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Mar2025 19:29:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Suit Up]
 [15Mar2025 19:30:21.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Mar2025 19:30:21.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 19:35:21.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 19:35:21.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 19:35:43.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Music register]
+[15Mar2025 19:37:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Writing...]
+[15Mar2025 19:37:52.244] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
+[15Mar2025 19:37:52.270] [Server thread/DEBUG] [mixin/]: Mixing DungeonContextMixin from betterdungeons.mixins.json into net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate
+[15Mar2025 19:37:52.271] [Server thread/DEBUG] [mixin/]: Mixing StructureTemplateMixin from betterdungeons.mixins.json into net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate
+[15Mar2025 19:37:52.271] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$betterdungeons_preventAutoWaterlogging$0(Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureProcessor;)Z to mdff7532$lambda$betterdungeons_preventAutoWaterlogging$0$0 in betterdungeons.mixins.json:StructureTemplateMixin
+[15Mar2025 19:37:52.272] [Server thread/DEBUG] [mixin/]: Mixing StructureTemplateMixin from betterwitchhuts.mixins.json into net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate
+[15Mar2025 19:37:52.272] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$betterwitchhuts_preventAutoWaterlogging$0(Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureProcessor;)Z to mdff7532$lambda$betterwitchhuts_preventAutoWaterlogging$0$1 in betterwitchhuts.mixins.json:StructureTemplateMixin
+[15Mar2025 19:37:52.272] [Server thread/DEBUG] [mixin/]: Mixing StructureTemplateMixin from betterjungletemples.mixins.json into net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate
+[15Mar2025 19:37:52.272] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$betterjungletemples_preventAutoWaterlogging$0(Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureProcessor;)Z to mdff7532$lambda$betterjungletemples_preventAutoWaterlogging$0$2 in betterjungletemples.mixins.json:StructureTemplateMixin
+[15Mar2025 19:37:52.272] [Server thread/DEBUG] [mixin/]: Mixing StructureTemplateMixin from betterdeserttemples.mixins.json into net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate
+[15Mar2025 19:37:52.273] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$betterdeserttemples_preventAutoWaterlogging$0(Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureProcessor;)Z to mdff7532$lambda$betterdeserttemples_preventAutoWaterlogging$0$3 in betterdeserttemples.mixins.json:StructureTemplateMixin
+[15Mar2025 19:38:23.851] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=11, y=64, z=31}) doesn't have enough leaves around top most log
+[15Mar2025 19:38:32.295] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-5, y=63, z=39}) doesn't have enough leaves around top most log
+[15Mar2025 19:38:38.390] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin2
+[15Mar2025 19:38:38.481] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Mar2025 19:38:38.482] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Mar2025 19:38:38.482] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Mar2025 19:38:38.482] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Mar2025 19:38:38.482] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Mar2025 19:38:38.482] [Worker-Main-2/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[15Mar2025 19:38:38.485] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.485] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.485] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:38.486] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[15Mar2025 19:38:39.067] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[15Mar2025 19:38:39.068] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[15Mar2025 19:38:42.903] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3, y=64, z=26}) doesn't have enough leaves around top most log
+[15Mar2025 19:38:46.019] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin3
+[15Mar2025 19:38:51.596] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-7, y=64, z=26}) doesn't have enough leaves around top most log
+[15Mar2025 19:39:00.113] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-22, y=63, z=30}) doesn't have enough leaves around top most log
+[15Mar2025 19:39:09.152] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-23, y=63, z=27}) doesn't have enough leaves around top most log
+[15Mar2025 19:39:17.080] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-22, y=63, z=22}) doesn't have enough leaves around top most log
+[15Mar2025 19:39:25.597] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-17, y=63, z=23}) doesn't have enough leaves around top most log
+[15Mar2025 19:39:33.292] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[15Mar2025 19:39:33.293] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15Mar2025 19:39:36.297] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-16, y=63, z=20}) doesn't have enough leaves around top most log
+[15Mar2025 19:39:46.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[15Mar2025 19:39:51.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:lighthouse
+[15Mar2025 19:39:51.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[15Mar2025 19:40:07.047] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-13, y=64, z=21}) doesn't have enough leaves around top most log
+[15Mar2025 19:40:08.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin5
+[15Mar2025 19:40:21.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 19:40:21.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 19:40:25.710] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=21, y=63, z=31}) doesn't have enough leaves around top most log
+[15Mar2025 19:40:49.620] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=35, y=63, z=41}) doesn't have enough leaves around top most log
+[15Mar2025 19:43:32.101] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=10, y=63, z=81}) doesn't have enough leaves around top most log
+[15Mar2025 19:43:40.705] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=20, y=63, z=82}) doesn't have enough leaves around top most log
