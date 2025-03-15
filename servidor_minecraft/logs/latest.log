@@ -21,3 +21,18 @@
 [15Mar2025 00:24:44.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by Infected Riot Gear
 [15Mar2025 00:24:46.256] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [15Mar2025 00:34:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Hunt and Gather]
+[15Mar2025 00:42:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Mar2025 00:42:52.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[15Mar2025 00:42:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Mar2025 00:42:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Mar2025 00:42:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Mar2025 00:42:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Mar2025 00:42:58.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Mar2025 00:42:59.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Mar2025 00:42:59.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Mar2025 00:42:59.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

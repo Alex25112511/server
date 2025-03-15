@@ -13618,3 +13618,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Mar2025 00:40:02.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Mar2025 00:40:04.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=254.30, y=62.58, z=258.68], dimensionLocationPath overworld
 [15Mar2025 00:40:04.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=254.30, y=62.58, z=258.68] in list []
+[15Mar2025 00:41:04.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=105.03, y=61.65, z=75.55]
+[15Mar2025 00:41:19.718] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=56.48, y=62.60, z=44.47], dimensionLocationPath overworld
+[15Mar2025 00:41:19.718] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=56.48, y=62.60, z=44.47] in list []
+[15Mar2025 00:41:20.118] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=55.15, y=62.60, z=43.64]
+[15Mar2025 00:41:20.318] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=54.48, y=62.62, z=43.23], dimensionLocationPath overworld
+[15Mar2025 00:41:20.318] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Garetexe'/55069, l='ServerLevel[world]', x=54.48, y=62.62, z=43.23] in list []
+[15Mar2025 00:42:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Mar2025 00:42:52.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[15Mar2025 00:42:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Mar2025 00:42:58.519] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[15Mar2025 00:42:58.521] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: e6153624-6ec9-3768-bf1f-51eb9dc95640
+[15Mar2025 00:42:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Mar2025 00:42:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Mar2025 00:42:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Mar2025 00:42:58.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Mar2025 00:42:59.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Mar2025 00:42:59.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Mar2025 00:42:59.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[15Mar2025 00:42:59.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 00:42:59.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[15Mar2025 00:42:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Mar2025 00:42:59.932] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[15Mar2025 00:42:59.943] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
