@@ -659,3 +659,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Mar2025 19:03:29.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
 [15Mar2025 19:03:29.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael left the game
 [15Mar2025 19:03:29.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[15Mar2025 19:06:23.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.143.241.91:36385] logged in with entity id 4696 at (11.925069437014212, 64.0, 9.58540157050637)
+[15Mar2025 19:06:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael joined the game
+[15Mar2025 19:06:23.120] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[15Mar2025 19:06:24.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[15Mar2025 19:06:24.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael left the game
+[15Mar2025 19:06:24.088] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[15Mar2025 19:06:28.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.143.241.91:56617] logged in with entity id 4716 at (11.925069437014212, 64.0, 9.58540157050637)
+[15Mar2025 19:06:28.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael joined the game
+[15Mar2025 19:06:28.606] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[15Mar2025 19:06:30.614] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[15Mar2025 19:06:30.615] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael

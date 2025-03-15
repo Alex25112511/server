@@ -4712,21 +4712,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_potato": "2025-03-15 18:57:36 +0000"
+      "has_rail": "2025-03-15 18:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-15 18:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-15 18:51:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/potato_chips": {
-    "criteria": {
-      "has_potato": "2025-03-15 18:57:36 +0000"
     },
     "done": true
   },
@@ -4742,12 +4748,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-03-15 18:51:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
@@ -4760,21 +4760,9 @@
     },
     "done": true
   },
-  "croptopia:gather_food": {
-    "criteria": {
-      "toast": "2025-03-15 18:59:39 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
-    },
-    "done": true
-  },
-  "croptopia:eatcrafted": {
-    "criteria": {
-      "eat_crafted": "2025-03-15 18:59:41 +0000"
     },
     "done": true
   },
@@ -4796,18 +4784,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-03-15 18:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-03-15 18:57:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
@@ -4823,12 +4799,6 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-03-15 18:57:36 +0000"
     },
     "done": true
   },
@@ -4850,21 +4820,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/buttered_toast": {
-    "criteria": {
-      "has_toast": "2025-03-15 18:59:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/toast_with_jam": {
-    "criteria": {
-      "has_toast": "2025-03-15 18:59:39 +0000"
     },
     "done": true
   },
@@ -4880,12 +4838,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-03-15 18:51:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
@@ -4895,12 +4847,6 @@
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-03-15 18:57:36 +0000"
     },
     "done": true
   },
@@ -4922,12 +4868,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2025-03-15 18:57:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
@@ -4937,6 +4877,66 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-15 18:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-15 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-03-15 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-15 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-15 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-15 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-03-15 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2025-03-15 18:59:39 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2025-03-15 18:59:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2025-03-15 18:59:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-03-15 18:59:41 +0000"
     },
     "done": true
   },
