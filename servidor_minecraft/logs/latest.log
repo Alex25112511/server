@@ -663,3 +663,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Mar2025 02:51:06.391] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
 [15Mar2025 02:52:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by EddyChael
 [15Mar2025 02:52:33.084] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 02:55:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael lost too much blood while trying to escape Explosive Zombie.
+[15Mar2025 02:55:29.686] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 02:59:48.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe drowned
+[15Mar2025 02:59:50.571] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 03:02:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Not Today, Thank You]
+[15Mar2025 03:04:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael died because of Zombie
+[15Mar2025 03:04:12.256] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

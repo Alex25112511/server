@@ -3056,6 +3056,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-15 03:01:08 +0000",
       "minecraft:spider": "2025-03-14 23:05:48 +0000",
       "minecraft:creeper": "2025-03-14 23:16:57 +0000",
       "minecraft:cave_spider": "2025-03-14 23:07:53 +0000",
@@ -4599,9 +4600,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-03-15 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
     },
     "done": true
   },
@@ -4611,9 +4678,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-15 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
     },
     "done": true
   },
@@ -4623,9 +4714,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-03-15 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 02:53:15 +0000"
     },
     "done": true
   },
@@ -4641,9 +4762,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-15 02:55:38 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-03-15 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-15 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
     },
     "done": true
   },
@@ -4659,9 +4804,39 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-15 02:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-15 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-03-15 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 02:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-15 02:55:32 +0000"
     },
     "done": true
   },

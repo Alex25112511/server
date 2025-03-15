@@ -7342,3 +7342,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Mar2025 02:52:33.084] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [15Mar2025 02:52:33.184] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742007153184
 [15Mar2025 02:53:31.191] [Server thread/DEBUG] [mixin/]: Mixing tacz.ModernKineticGunScriptAPIMixin from sona.mixins.json into com.tacz.guns.item.ModernKineticGunScriptAPI
+[15Mar2025 02:55:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael lost too much blood while trying to escape Explosive Zombie.
+[15Mar2025 02:55:27.428] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-18.83, y=13.20, z=38.30]
+[15Mar2025 02:55:29.686] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 02:55:29.822] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742007329814
+[15Mar2025 02:56:09.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 02:56:09.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 02:57:42.929] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-18.15, y=13.00, z=39.28], dimensionLocationPath overworld
+[15Mar2025 02:57:42.929] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-18.15, y=13.00, z=39.28] in list []
+[15Mar2025 02:59:48.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe drowned
+[15Mar2025 02:59:48.873] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Garetexe'/251, l='ServerLevel[world]', x=11.55, y=57.00, z=-10.73]
+[15Mar2025 02:59:50.571] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 02:59:50.655] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742007590655
+[15Mar2025 03:01:09.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 03:01:09.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 03:01:48.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-43.39, y=5.00, z=28.01]
+[15Mar2025 03:01:51.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-43.39, y=5.00, z=28.01], dimensionLocationPath overworld
+[15Mar2025 03:01:51.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-43.39, y=5.00, z=28.01] in list []
+[15Mar2025 03:01:52.021] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-43.39, y=5.00, z=28.01]
+[15Mar2025 03:01:59.919] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-41.07, y=6.18, z=37.10], dimensionLocationPath overworld
+[15Mar2025 03:01:59.919] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-41.07, y=6.18, z=37.10] in list []
+[15Mar2025 03:02:00.022] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-40.71, y=6.00, z=37.40]
+[15Mar2025 03:02:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Not Today, Thank You]
+[15Mar2025 03:03:02.520] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-5.49, y=18.00, z=31.57], dimensionLocationPath overworld
+[15Mar2025 03:03:02.520] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-5.49, y=18.00, z=31.57] in list []
+[15Mar2025 03:03:02.770] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-5.49, y=18.00, z=31.57]
+[15Mar2025 03:03:27.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-10.46, y=19.00, z=27.47], dimensionLocationPath overworld
+[15Mar2025 03:03:27.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-10.46, y=19.00, z=27.47] in list []
+[15Mar2025 03:03:27.520] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['EddyChael'/3056, l='ServerLevel[world]', x=-10.77, y=19.00, z=27.74]
+[15Mar2025 03:04:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael died because of Zombie
+[15Mar2025 03:04:12.256] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 03:04:12.350] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742007852350
