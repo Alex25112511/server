@@ -4926,6 +4926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-15 04:13:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_coffee_table": {
     "criteria": {
       "has_log": "2025-03-15 04:26:49 +0000"
@@ -5175,12 +5181,6 @@
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_log": "2025-03-15 04:26:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-03-15 04:13:52 +0000"
     },
     "done": true
   },
