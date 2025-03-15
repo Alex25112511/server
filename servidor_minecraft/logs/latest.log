@@ -670,3 +670,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Mar2025 19:06:28.606] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
 [15Mar2025 19:06:30.614] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
 [15Mar2025 19:06:30.615] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[15Mar2025 19:29:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Suit Up]
