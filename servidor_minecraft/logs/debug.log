@@ -13180,3 +13180,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Mar2025 23:54:20.905] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
 [14Mar2025 23:55:02.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Mar2025 23:55:02.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 00:00:02.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 00:00:02.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 00:05:02.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 00:05:02.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 00:07:25.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[15Mar2025 00:07:25.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe left the game
+[15Mar2025 00:07:25.820] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Garetexe
+[15Mar2025 00:07:25.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
