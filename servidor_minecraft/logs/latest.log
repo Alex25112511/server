@@ -1,3 +1,15 @@
 [15Mar2025 00:07:25.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
 [15Mar2025 00:07:25.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe left the game
 [15Mar2025 00:07:25.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
+[15Mar2025 00:18:09.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael was slain by Boomer
+[15Mar2025 00:18:10.724] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 00:18:42.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael was slain by Patient Zero
+[15Mar2025 00:19:01.069] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 00:19:36.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@170409ee[id=<null>,name=Garetexe,properties={},legacy=false] (/127.96.160.164:35351) lost connection: Disconnected
+[15Mar2025 00:19:40.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael was slain by Boomer
+[15Mar2025 00:19:41.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Garetexe[/127.96.160.164:53833] logged in with entity id 55069 at (11.217192673953218, 64.0, 9.153614613584)
+[15Mar2025 00:19:41.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe joined the game
+[15Mar2025 00:19:41.729] [Server thread/INFO] [Jade/]: Syncing config to Garetexe (e6153624-6ec9-3768-bf1f-51eb9dc95640)
+[15Mar2025 00:19:42.058] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Garetexe (18)
+[15Mar2025 00:19:42.059] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Garetexe
+[15Mar2025 00:19:42.617] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
