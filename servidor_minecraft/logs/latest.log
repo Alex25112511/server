@@ -670,3 +670,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Mar2025 03:02:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [Not Today, Thank You]
 [15Mar2025 03:04:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael died because of Zombie
 [15Mar2025 03:04:12.256] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 03:06:02.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has reached the goal [Listen directly]
+[15Mar2025 03:06:02.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has reached the goal [Listen directly]
+[15Mar2025 03:10:29.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe drowned
+[15Mar2025 03:10:31.111] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 03:10:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael was slain by Garetexe
+[15Mar2025 03:10:56.338] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Mar2025 03:15:23.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[15Mar2025 03:15:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael left the game
+[15Mar2025 03:15:23.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[15Mar2025 03:15:24.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[15Mar2025 03:15:24.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe left the game
+[15Mar2025 03:15:24.870] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
