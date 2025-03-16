@@ -85,7 +85,7 @@
 ["Rot System"]
 	#Whether to turn on the rot system.
 	#The Serverside controls the switching of the system and the Clientside controls the display of the HUD.
-	"Turn on Rot System" = true
+	"Turn on Rot System" = false
 	#This weight is multiplied for each rot increase.
 	#For example, if this value is set to 0.5, when the rot should increase by 8, the actual increase is 8 * 0.5 = 4.
 	#Range: 0.0 ~ 5.0

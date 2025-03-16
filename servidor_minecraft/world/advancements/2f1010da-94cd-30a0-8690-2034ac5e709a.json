@@ -319,6 +319,8 @@
     "criteria": {
       "minecraft:taiga": "2025-03-14 22:53:41 +0000",
       "minecraft:deep_ocean": "2025-03-15 03:57:00 +0000",
+      "minecraft:birch_forest": "2025-03-16 04:09:52 +0000",
+      "minecraft:windswept_hills": "2025-03-16 04:16:29 +0000",
       "minecraft:beach": "2025-03-14 22:52:22 +0000",
       "minecraft:dark_forest": "2025-03-15 03:51:16 +0000",
       "minecraft:river": "2025-03-14 22:52:55 +0000",
@@ -328,8 +330,11 @@
       "minecraft:forest": "2025-03-14 22:49:55 +0000",
       "minecraft:deep_cold_ocean": "2025-03-15 04:25:38 +0000",
       "minecraft:ocean": "2025-03-15 03:45:38 +0000",
+      "minecraft:windswept_savanna": "2025-03-16 04:18:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-15 04:16:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-15 03:51:15 +0000",
+      "minecraft:meadow": "2025-03-16 03:21:39 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-16 04:17:58 +0000",
       "minecraft:savanna": "2025-03-15 04:15:17 +0000",
       "minecraft:plains": "2025-03-15 03:59:58 +0000"
     },
@@ -688,6 +693,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-03-16 03:47:28 +0000",
       "cooked_beef": "2025-03-15 04:02:00 +0000",
       "potato": "2025-03-15 18:57:39 +0000",
       "bread": "2025-03-14 22:56:53 +0000",
@@ -3908,6 +3914,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-03-16 03:56:16 +0000",
       "sugar_cane": "2025-03-14 23:42:08 +0000"
     },
     "done": false
@@ -5687,6 +5694,150 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-16 02:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-03-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-03-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-16 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-16 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-03-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-03-16 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-03-16 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-03-16 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-16 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-16 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-16 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-16 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-03-16 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/bricks": {
+    "criteria": {
+      "has_copper_block": "2025-03-16 03:39:03 +0000"
     },
     "done": true
   },
