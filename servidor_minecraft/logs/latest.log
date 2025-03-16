@@ -660,3 +660,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Mar2025 02:07:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [What a Deal!]
 [16Mar2025 02:09:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by EddyChael
 [16Mar2025 02:09:35.842] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Mar2025 02:18:58.428] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[16Mar2025 02:18:58.428] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[16Mar2025 02:26:13.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael has made the advancement [What a Deal!]
+[16Mar2025 02:27:00.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[16Mar2025 02:27:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael left the game
+[16Mar2025 02:27:00.228] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[16Mar2025 02:27:41.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e441150[id=<null>,name=EddyChael,properties={},legacy=false] (/127.143.241.91:34877) lost connection: Disconnected
+[16Mar2025 02:31:33.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.143.241.91:58131] logged in with entity id 72594 at (-30.14555903153438, 0.0, 30.584726004594078)
+[16Mar2025 02:31:33.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael joined the game
+[16Mar2025 02:31:33.941] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[16Mar2025 02:31:36.490] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[16Mar2025 02:31:36.491] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
