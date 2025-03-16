@@ -652,3 +652,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Mar2025 01:49:08.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Hot Stuff]
 [16Mar2025 01:55:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Not Today, Thank You]
 [16Mar2025 01:56:06.816] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14320, l='ServerLevel[world]', x=-114.50, y=13.00, z=-657.50]
+[16Mar2025 02:06:39.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.143.241.91:57253] logged in with entity id 64848 at (-71.17011739211, 67.0, -105.47964237087274)
+[16Mar2025 02:06:39.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EddyChael joined the game
+[16Mar2025 02:06:39.247] [Server thread/INFO] [Jade/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[16Mar2025 02:06:42.413] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[16Mar2025 02:06:42.414] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[16Mar2025 02:07:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [What a Deal!]
+[16Mar2025 02:09:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe was slain by EddyChael
+[16Mar2025 02:09:35.842] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
