@@ -7715,3 +7715,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Mar2025 01:51:48.461] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=19, y=64, z=87}) doesn't have enough leaves around top most log
 [16Mar2025 01:51:56.752] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=13, y=64, z=89}) doesn't have enough leaves around top most log
 [16Mar2025 01:52:05.019] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=12, y=64, z=92}) doesn't have enough leaves around top most log
+[16Mar2025 01:52:12.961] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=9, y=63, z=89}) doesn't have enough leaves around top most log
+[16Mar2025 01:53:10.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 01:53:10.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 01:54:41.858] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin5
+[16Mar2025 01:54:44.137] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[16Mar2025 01:54:44.143] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[16Mar2025 01:54:44.171] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin4
+[16Mar2025 01:54:44.744] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin2
+[16Mar2025 01:54:50.889] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/jungle_shelter
+[16Mar2025 01:54:55.357] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:caff
+[16Mar2025 01:54:56.324] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/gathering_camps
+[16Mar2025 01:55:01.678] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:lighthouse
+[16Mar2025 01:55:03.877] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:gas_station1
+[16Mar2025 01:55:03.960] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[16Mar2025 01:55:04.052] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:graveyard
+[16Mar2025 01:55:06.747] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[16Mar2025 01:55:06.774] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_entrance_0
+[16Mar2025 01:55:12.432] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:build1
+[16Mar2025 01:55:27.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[16Mar2025 01:55:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Garetexe has made the advancement [Not Today, Thank You]
+[16Mar2025 01:56:06.816] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14320, l='ServerLevel[world]', x=-114.50, y=13.00, z=-657.50]
+[16Mar2025 01:56:58.375] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:modern_house1
+[16Mar2025 01:57:09.313] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:apartament
+[16Mar2025 01:57:22.582] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[16Mar2025 01:57:30.717] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:post
+[16Mar2025 01:57:32.596] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/prison
+[16Mar2025 01:57:37.302] [Worker-Main-1/DEBUG] [ModernFix/]: Structure apocalypsenow:storage is being run through DFU (hash f6d4f3908973355817dde93eaf7359eaf9452303d665f6ded5977f47eab0bd3f), this will cause launch time delays
+[16Mar2025 01:57:48.632] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/touring_car
+[16Mar2025 01:57:48.641] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dynamictrees:village/plains/town_centers/plains_meeting_point_3
+[16Mar2025 01:57:53.349] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/pond
+[16Mar2025 01:58:10.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 01:58:10.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 01:58:39.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[16Mar2025 01:58:41.743] [Worker-Main-3/DEBUG] [ModernFix/]: Structure apocalypsenow:ruins1 is being run through DFU (hash d6ea5e73d902966f6f902fd89d0f41485900e96fcda39a5f440fd3d7c9483153), this will cause launch time delays

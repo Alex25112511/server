@@ -318,6 +318,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-14 22:36:35 +0000",
+      "minecraft:deep_ocean": "2025-03-16 01:55:33 +0000",
       "minecraft:beach": "2025-03-14 22:35:19 +0000",
       "minecraft:river": "2025-03-14 22:35:38 +0000",
       "minecraft:stony_shore": "2025-03-14 23:26:19 +0000",
@@ -3063,7 +3064,8 @@
       "minecraft:spider": "2025-03-14 23:05:48 +0000",
       "minecraft:creeper": "2025-03-14 23:16:57 +0000",
       "minecraft:cave_spider": "2025-03-14 23:07:53 +0000",
-      "minecraft:zombie": "2025-03-14 23:17:33 +0000"
+      "minecraft:zombie": "2025-03-14 23:17:33 +0000",
+      "minecraft:drowned": "2025-03-16 01:56:23 +0000"
     },
     "done": false
   },
@@ -6065,6 +6067,24 @@
   "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2025-03-15 19:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-16 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-16 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-03-16 01:52:33 +0000"
     },
     "done": true
   },
