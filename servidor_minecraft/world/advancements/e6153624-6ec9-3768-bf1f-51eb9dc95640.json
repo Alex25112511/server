@@ -3065,7 +3065,8 @@
       "minecraft:creeper": "2025-03-14 23:16:57 +0000",
       "minecraft:cave_spider": "2025-03-14 23:07:53 +0000",
       "minecraft:zombie": "2025-03-14 23:17:33 +0000",
-      "minecraft:drowned": "2025-03-16 01:56:23 +0000"
+      "minecraft:drowned": "2025-03-16 01:56:23 +0000",
+      "minecraft:zombie_villager": "2025-03-16 02:41:34 +0000"
     },
     "done": false
   },
@@ -6054,6 +6055,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "toast": "2025-03-16 02:39:13 +0000",
       "calamari": "2025-03-15 19:57:50 +0000"
     },
     "done": false
@@ -6112,6 +6114,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-03-16 02:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-16 02:32:44 +0000"
@@ -6136,6 +6144,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2025-03-16 02:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-03-16 02:32:44 +0000"
@@ -6151,6 +6165,12 @@
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-03-16 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2025-03-16 02:39:13 +0000"
     },
     "done": true
   },
